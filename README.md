@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Purvikachinta
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development and python
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on learn java
 - 📫 How to reach me purvikachinta10@gmail.com
